@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC2k6B1qp12T5FNSdA1n0JWN-uzDDUB_Sg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>819507712444</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.safeCrop</string>
+	<key>PROJECT_ID</key>
+	<string>safe-crop</string>
+	<key>STORAGE_BUCKET</key>
+	<string>safe-crop.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:819507712444:ios:d5df50ac4075b8de1a9bb9</string>
+	<key>DATABASE_URL</key>
+	<string>https://safe-crop-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

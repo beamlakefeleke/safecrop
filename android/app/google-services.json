@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "819507712444",
+    "firebase_url": "https://safe-crop-default-rtdb.firebaseio.com",
+    "project_id": "safe-crop",
+    "storage_bucket": "safe-crop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819507712444:android:1a4d7069e922de341a9bb9",
+        "android_client_info": {
+          "package_name": "com.example.safe_crop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUgP34xVNOtX4-R0B4yVVoWyJX30Pwf6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
