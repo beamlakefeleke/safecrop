@@ -154,9 +154,8 @@ class _ShowHistoryState extends State<ShowHistory> with SingleTickerProviderStat
                       style: ElevatedButton.styleFrom(
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(8),
-                        ),
+                        ), backgroundColor: Colors.white,
                         elevation: 4,
-                        primary: Colors.white,
                         shadowColor: Colors.black26,
                       ),
                       child: ListTile(
